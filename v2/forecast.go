@@ -37,6 +37,7 @@ type DataPoint struct {
 	PrecipProbability      float64
 	PrecipType             string
 	PrecipAccumulation     float64
+	ApparentTemperature    float64
 	Temperature            float64
 	TemperatureMin         float64
 	TemperatureMinTime     float64
